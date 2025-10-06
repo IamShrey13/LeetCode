@@ -1,0 +1,30 @@
+class Solution {
+public:
+    bool checkSubarraySum(vector<int>& nums, int k) {
+        unordered_map<int, int> mp; // remainder -> first index
+        mp[0] = -1; // handle subarray starting from index 0
+
+        int sum = 0;
+
+        for (int i = 0; i < nums.size(); i++) {
+            sum += nums[i];
+
+            if (k != 0)
+                sum %= k;  // take remainder only when k != 0
+
+            // handle negative remainder (C++ can give negatives)
+            if (sum < 0)
+                sum += k;
+
+            if (mp.find(sum) != mp.end()) {
+                if (i - mp[sum] > 1)
+                    return true;
+            } else {
+                // only store first occurrence
+                mp[sum] = i;
+            }
+        }
+
+        return false;
+    }
+};
