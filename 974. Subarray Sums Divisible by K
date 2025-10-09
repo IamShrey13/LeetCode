@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int subarraysDivByK(vector<int>& nums, int k) {
+        unordered_map<int, int> count;
+        count[0] = 1; // empty prefix
+
+        int prefixSum = 0, res = 0;
+        for (int num : nums) {
+            prefixSum += num;
+            int rem = ((prefixSum % k) + k) % k; // handle negatives
+
+            if (count.find(rem) != count.end()) {
+                res += count[rem];
+            }
+            count[rem]++;
+        }
+        return res;
+    }
+};
