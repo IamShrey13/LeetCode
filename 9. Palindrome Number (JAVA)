@@ -1,0 +1,21 @@
+class Solution {
+    public boolean isPalindrome(int x) {
+
+        if (x < 0){
+            return false;
+        }
+        
+        int nv = 0;
+        int cx = x;
+        while(cx != 0) {
+            nv = nv*10 + cx%10;
+            cx = cx / 10;
+        }
+
+        if (nv == x) {
+            return true;
+        } else{
+            return false;
+        }
+    }
+}
