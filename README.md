@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/IamShrey13/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/IamShrey13/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/IamShrey13/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/IamShrey13/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/IamShrey13/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/IamShrey13/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/IamShrey13/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/IamShrey13/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
