@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamShrey13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IamShrey13/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/IamShrey13/LeetCode/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/IamShrey13/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamShrey13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IamShrey13/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/IamShrey13/LeetCode/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
