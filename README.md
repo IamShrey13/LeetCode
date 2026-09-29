@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamShrey13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IamShrey13/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/IamShrey13/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/IamShrey13/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IamShrey13/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/IamShrey13/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/IamShrey13/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/IamShrey13/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/IamShrey13/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
