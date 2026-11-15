@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/IamShrey13/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IamShrey13/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/IamShrey13/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/IamShrey13/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/IamShrey13/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/IamShrey13/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamShrey13/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IamShrey13/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/IamShrey13/LeetCode/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/IamShrey13/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
