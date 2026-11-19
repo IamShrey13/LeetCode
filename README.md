@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/IamShrey13/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/IamShrey13/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/IamShrey13/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/IamShrey13/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/IamShrey13/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/IamShrey13/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/IamShrey13/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/IamShrey13/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/IamShrey13/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/IamShrey13/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/IamShrey13/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/IamShrey13/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/IamShrey13/LeetCode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/IamShrey13/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IamShrey13/LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/IamShrey13/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/IamShrey13/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/IamShrey13/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
