@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/IamShrey13/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/IamShrey13/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/IamShrey13/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/IamShrey13/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/IamShrey13/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/IamShrey13/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IamShrey13/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/IamShrey13/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/IamShrey13/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/IamShrey13/LeetCode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/IamShrey13/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
@@ -118,8 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/IamShrey13/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/IamShrey13/LeetCode/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/IamShrey13/LeetCode/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/IamShrey13/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
