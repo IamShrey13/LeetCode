@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/IamShrey13/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/IamShrey13/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/IamShrey13/LeetCode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/IamShrey13/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/IamShrey13/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/IamShrey13/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/IamShrey13/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/IamShrey13/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/IamShrey13/LeetCode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/IamShrey13/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/IamShrey13/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
